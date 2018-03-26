@@ -11,4 +11,4 @@ These tools are basically for cracking wifi password which most of us would try 
 <h3>Using Application</h3>
 As you already know that operating systems like windows are actually not for hacking. However, there are various kind of software application on 
 windows which an give you a helping hand with it. You can almost do a lot of basic hacking and cracking techniques with these tools.
-Resources for Hacking Wi-fi guide: <a href="https://youprogrammer.com/how-to-hack-wifi/" rel="dofollow">wifi hacking</a>
+Resources for Hacking Wi-fi guide: https://youprogrammer.com/how-to-hack-wifi/
